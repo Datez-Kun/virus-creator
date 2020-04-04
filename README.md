@@ -2,3 +2,16 @@
 # virus-creator
 
 <img src="https://github.com/rz-id/fbtools/blob/master/Screenshot_20200404_012112.jpg"/>
+# install
+```
+pkg update && pkg upgrade
+pkg install wget
+pkg install git && pkg install python2
+pip2 install tqdm
+git clone https://github.com/rz-id/virus-creator
+cd virus-creator
+```
+# run
+```
+python2 virus.py
+```
