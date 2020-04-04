@@ -2,6 +2,7 @@
 # virus-creator
 
 <img src="https://github.com/rz-id/virus-creator/blob/master/Screenshot_20200405_012923.jpg"/>
+
 # install
 ```
 pkg update && pkg upgrade
@@ -11,6 +12,7 @@ pip2 install tqdm
 git clone https://github.com/rz-id/virus-creator
 cd virus-creator
 ```
+
 # run
 ```
 python2 virus.py
