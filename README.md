@@ -1,7 +1,7 @@
 ![Python|2.7](https://img.shields.io/badge/Python-2.7-blue.svg)
 # virus-creator
 
-<img src="https://github.com/rz-id/virus-creator/blob/master/Screenshot_20200405_012923.jpg"/>
+<img src="https://github.com/rz-id/virus-creator/blob/master/Screenshot_20200410_172000.jpg"/>
 
 # install
 ```
